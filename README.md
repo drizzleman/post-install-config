@@ -52,7 +52,7 @@ To create a new Department make sure you are under the Admin panel and select ag
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Under the Admin panel select Agents then Teams. Add a new Team, give it a name and add members to the team, and once completed create the team.
 </p>
 <br />
 <p>
