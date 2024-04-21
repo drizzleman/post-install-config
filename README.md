@@ -25,8 +25,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 1-Configure Roles
 - Item 2-Configure Departments
 - Item 3-Configure Teams
-- Item 4-Configure SLA
-- Item 5-Configure Help Topics
+- Item 4-Configure Agents
+- Item 5-Configure SLA
+- Item 6-Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
@@ -53,6 +54,13 @@ To create a new Department make sure you are under the Admin panel and select ag
 </p>
 <p>
 Under the Admin panel select Agents then Teams. Add a new Team, give it a name and add members to the team, and once completed create the team.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 <p>
