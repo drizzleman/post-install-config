@@ -34,8 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="703" alt="image" src="https://github.com/drizzleman/post-install-config/assets/166667455/9f25c1a7-ca4b-4bfe-83ba-37493cfa9bea">
 
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>Click Admin panel, select roles and then click add new role. Name it what whatever you like for your lab.
 </p>
 <br />
 
