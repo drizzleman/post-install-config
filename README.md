@@ -64,11 +64,11 @@ Under the Admin panel select Agents then Teams. Add a new Team, give it a name a
 When under the Admin panel you can also create Agents who will be able to assign tickets. You will want to select agent and then click add new agent.Give the agent a username and password also set what access, permissions, and teams you would want the agent to have.
 </p>
 <br />
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img width="676" alt="image" src="https://github.com/drizzleman/post-install-config/assets/166667455/50e5e604-000e-479b-915d-f56592f40182">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to the Agent panel and select users and add a new user. When creating a new user create a email and give the users full name.
 </p>
 <br />
 <p>
