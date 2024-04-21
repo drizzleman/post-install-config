@@ -56,8 +56,8 @@ To create a new Department make sure you are under the Admin panel and select ag
 Under the Admin panel select Agents then Teams. Add a new Team, give it a name and add members to the team, and once completed create the team.
 </p>
 <br />
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img width="616" alt="image" src="https://github.com/drizzleman/post-install-config/assets/166667455/ff4e5078-0c2e-4902-888c-6d56eb99ae77">
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
