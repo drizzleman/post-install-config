@@ -84,6 +84,6 @@ Create a SLA under the Admin panel by selecting manage and then you would want t
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure Help Topics under Admin Panel by selecting manage and creating add new help topic.
 </p>
 <br />
